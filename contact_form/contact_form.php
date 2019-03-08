@@ -5,7 +5,7 @@
 $subject = 'فرم تماس';
 
 // Your email address. This is where the form information will be sent.
-$emailadd = 'yourmail@gmail.com';
+$emailadd = 'adicom.ir@gmail.com';
 
 // Where to redirect after form is processed.
 $url = '#';
